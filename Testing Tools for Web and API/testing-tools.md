@@ -51,7 +51,7 @@
 
 #### Katalon Studio is an automation solution for API, Web, Mobile, and Windows applications. It's easy to use and supports both SOAP and RESTful requests. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png" width="150" height="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png" width="280" height="100">
 
 
 **[Check this for more info](https://katalon.com/)**
